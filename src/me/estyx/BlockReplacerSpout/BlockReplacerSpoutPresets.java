@@ -5,8 +5,8 @@ public class BlockReplacerSpoutPresets
 {
 	private final BlockReplacerSpout plugin;
 
-    public BlockReplacerSpoutPresets(BlockReplacerSpout instance)
-    {
-        plugin = instance;
-    }
+	public BlockReplacerSpoutPresets(BlockReplacerSpout instance)
+	{
+		plugin = instance;
+	}
 }
