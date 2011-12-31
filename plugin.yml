@@ -1,6 +1,6 @@
 name: BlockReplacerSpout
 main: me.estyx.BlockReplacerSpout.BlockReplacerSpout
-version: 0.1.1
+version: 0.1.2
 author: estyx
 description: Replace blocks with redstone and signs, for Spout custom blocks
 
@@ -15,5 +15,5 @@ permissions:
 		default: op
 		description: Can create a replacer sign.
 	blockreplacerspout.use:
-		default: true
+		default: op
 		description: Can use a replacer sign by right-click
